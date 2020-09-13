@@ -1,7 +1,7 @@
-# @activescott/diag
+# @activescott/diag-winston
 
-[![npm version](https://badge.fury.io/js/%40activescott%2Fdiag-winston.svg)](https://www.npmjs.com/package/@activescott/diag)
-[![Build Status](https://github.com/activescott/diag-winston/workflows/main/badge.svg)](https://github.com/activescott/diag/actions)
+[![npm version](https://badge.fury.io/js/%40activescott%2Fdiag-winston.svg)](https://www.npmjs.com/package/@activescott/diag-winston)
+[![Build Status](https://github.com/activescott/diag-winston/workflows/main/badge.svg)](https://github.com/activescott/diag-winston/actions)
 
 Yet another logging package. The only thing this package really is doing is defining a consistent API for diagnostic logging.
 
