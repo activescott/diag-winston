@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "Yet another logging package that provides a simple API on top of winston.",
   "license": "MIT",
+  "repository": "https://github.com/activescott/diag-winston",
   "engines": {
     "node": ">=10"
   },
